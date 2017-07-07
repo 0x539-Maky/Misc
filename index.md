@@ -25,7 +25,6 @@ about:robots Easter egg
 
 ```
 
-```markdown
 
 ### Firefox Tunning
 
